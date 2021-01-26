@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... PHP
 - 💬 Ask me about ... my dog
 - 📫 How to reach me: ... @iamtomsherman
-- ⚡ Fun fact: ... in 2017, I discovered the 5th season of the year in 2017
+- ⚡ Fun fact: ... in 2017, I discovered the 5th season of the year
