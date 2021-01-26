@@ -2,7 +2,7 @@
 
 Throughout the desert of the internet an oasis emerges. Is it a mirage? Your pace quickens, joy bubbling as you reach the crest of the last dune to see:
 
-##Tom Sherman's GitHub Profile
+## Tom Sherman's GitHub Profile
 
 Here are some ideas to get you started:
 
