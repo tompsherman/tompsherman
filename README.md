@@ -16,10 +16,5 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tompsherman&show_icons=true&theme=vue)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tompsherman&show_icons=true&theme=solarized-light)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tompsherman&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tompsherman&theme=solarized-light)
-
 
