@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... my dog
 - 📫 How to reach me: ... @iamtomsherman
 - ⚡ Fun fact: ... in 2017, I discovered the 5th season of the year
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tompsherman&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tompsherman&theme=tokyonight)
+
+
