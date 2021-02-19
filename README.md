@@ -4,8 +4,6 @@ Throughout the desert of the internet an oasis emerges. Is it a mirage? Your pac
 
 # Tom Sherman's GitHub Profile
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... [destroying the Gregorian Calendar with math & science](http://thenewcalendar.com)
 - 🌱 I’m currently learning ... full stack web development (NodeJS) with Lambda School
 - 👯 I’m looking to collaborate on ... interesting, complex problems
