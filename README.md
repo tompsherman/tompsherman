@@ -18,4 +18,4 @@ Throughout the desert of the internet an oasis emerges. Is it a mirage? Your pac
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tompsherman&show_icons=true&theme=vue) 
 
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimohamud&layout=compact" align="right" />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimohamud&layout=compact" />
