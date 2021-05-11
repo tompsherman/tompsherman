@@ -7,9 +7,7 @@ Throughout the desert of the internet an oasis emerges. Is it a mirage? Your pac
 - 🔭 I’m currently working on ... [destroying the Gregorian Calendar with math & science](http://thenewcalendar.com)
 - 🌱 I’m currently learning ... full stack web development (NodeJS) with Lambda School
 - 👯 I’m looking to collaborate on ... interesting, complex problems
-- 🤔 I’m looking for help with ... PHP
-- 💬 Ask me about ... my dog
-- 📫 How to reach me: ... @iamtomsherman
+- 💬 Ask me why ... I like to code in sunglasses
 - ⚡ Fun fact: ... in 2017, I discovered the 5th season of the year
 
 #### Languages & technologies --
